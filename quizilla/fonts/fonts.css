@@ -1,0 +1,52 @@
+@font-face {
+	font-family: NoirPro-Bold;
+	src: url(./NoirPro-Bold.ttf);
+}
+@font-face {
+	font-family: NoirPro-BoldItalic;
+	src: url(./NoirPro-BoldItalic.ttf);
+}
+@font-face {
+	font-family: NoirPro-Heavy;
+	src: url(./NoirPro-Heavy.ttf);
+}
+@font-face {
+	font-family: NoirPro-HeavyItalic;
+	src: url(./NoirPro-HeavyItalic.ttf);
+}
+@font-face {
+	font-family: NoirPro-Italic;
+	src: url(.fonts/NoirPro-Italic.ttf);
+}
+@font-face {
+	font-family: NoirPro-Light;
+	src: url(./NoirPro-Light.ttf);
+}
+@font-face {
+	font-family: NoirPro-LightItalic;
+	src: url(./NoirPro-LightItalic.ttf);
+}
+@font-face {
+	font-family: NoirPro-Medium;
+	src: url(./NoirPro-Medium.ttf);
+}
+@font-face {
+	font-family: NoirPro-MediumItalic;
+	src: url(./NoirPro-MediumItalic.ttf);
+}
+@font-face {
+	font-family: NoirPro-Regular;
+	src: url(./NoirPro-Regular.ttf);
+}
+@font-face {
+	font-family: NoirPro-SemiBold;
+	src: url(./NoirPro-SemiBold.ttf);
+}
+@font-face {
+	font-family: NoirPro-SemiBoldItalic;
+	src: url(./NoirPro-SemiBoldItalic.ttf);
+}
+@font-face {
+	font-family: LemonMilk-Regular;
+	src: url(./LemonMilk.otf);
+}
